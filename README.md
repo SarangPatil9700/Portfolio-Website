@@ -6,4 +6,4 @@ Here's a preview of my portfolio website:
 
 Here's a preview of my portfolio website:
 
-<img src="https://github.com/SarangPatil9700/Portfolio-Website/blob/main/screenshots/Screenshot%20(17).png" alt="Portfolio Website Screenshot" width="500">
+<img src="https://github.com/SarangPatil9700/Portfolio-Website/blob/main/screenshots/Screenshot%20(17).png" alt="Portfolio Website Screenshot" height="500 width="500">
